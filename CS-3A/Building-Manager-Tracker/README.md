@@ -34,15 +34,15 @@ dictionary.txt # Data file storing manager–building assignments
 
 ## Concepts Demonstrated
 
-• File input/output in Python
-• Error handling (FileNotFoundError)
-• Dictionaries for storing and updating key–value pairs
-• Classes and methods for code organization
-• User input and simple data persistence
+- File input/output in Python
+- Error handling (FileNotFoundError)
+- Dictionaries for storing and updating key–value pairs
+- Classes and methods for code organization
+- User input and simple data persistence
 
 ## Next Steps (Optional Enhancements)
 
-• Validate building numbers to ensure numeric input
-• Use with open(...) for safer file handling
-• Add unit tests for the DictionaryFileManager class
-• Expand functionality (e.g., remove entries, list all managers)
+- Validate building numbers to ensure numeric input
+- Use with open(...) for safer file handling
+- Add unit tests for the DictionaryFileManager class
+- Expand functionality (e.g., remove entries, list all managers)

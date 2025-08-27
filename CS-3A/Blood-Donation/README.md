@@ -36,14 +36,14 @@ donors.txt # Data file storing donor records
 
 ## Concepts Demonstrated
 
-• File handling in Python
-• Dictionaries for structured storage of records
-• User input and validation
-• Simple persistent data storage
+- File handling in Python
+- Dictionaries for structured storage of records
+- User input and validation
+- Simple persistent data storage
 
 ## Next Steps (Optional Enhancements)
 
-• Input validation for blood types and dates
-• Display all donors in a formatted list
-• Search donors by blood type
-• Track donation history per donor
+- Input validation for blood types and dates
+- Display all donors in a formatted list
+- Search donors by blood type
+- Track donation history per donor
