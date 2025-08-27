@@ -6,7 +6,7 @@ A collection of Python and C++ projects showcasing algorithms, data structures, 
 
 **Object-Oriented Programming Methodologies in Python**
 
-- [Building Manager Tracker](projects/CS-3A/Building-Manager-Tracker/README.md)  
+- [Building Manager Tracker](CS-3A/Building-Manager-Tracker/README.md)  
   Project includes a class for reading, writing, and updating key–value pairs in a text file using dictionaries and file I/O.
-- [Blood Donation](projects/CS-3A/blood-donation/README.md)  
+- [Blood Donation](CS-3A/Blood-Donation/README.md)  
   Python program for tracking and updating blood donor information using dictionaries and file I/O.
