@@ -13,17 +13,20 @@ This project demonstrates file I/O, dictionaries, and user input handling to tra
 ## Example Usage
 
 ```
-$ python blood-donation.py
-Enter donor name: Alice
-Enter blood type: O+
-Enter donation date (YYYY-MM-DD): 2025-08-27
-Donor record saved.
-```
+Enter pints collected: 43
+Enter pints collected: 25
+Enter pints collected: 64
+Enter pints collected: 35
+Enter pints collected: 19
+Enter pints collected: 37
+Enter pints collected: 46
 
-## Resulting file (dictionary.txt)
+The average number of pints donated is 38.43
+The highest pints donated is 64
+The lowest pints donated is 19
 
-```
-Alice: O+, 2025-08-27
+Do you want to end program? (Enter no or yes): yes
+
 ```
 
 ## Project Structure
