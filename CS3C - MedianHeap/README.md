@@ -1,0 +1,3 @@
+# CS3C - MedianHeap
+
+This project implements a `MedianHeap` data structure designed to process streaming numerical data and provide constant-time \(O(1)\) access to the median element. The architecture utilizes a dual-heap approach consisting of a min-heap and a max-heap, with the max-heap implemented by negating values stored inside a custom `MinHeap`. Incoming numbers are routed to either heap depending on comparison with the min-heap root, followed by an automatic rebalancing step. Maintaining the size invariant where the min-heap holds either equal to or exactly one more element than the max-heap ensures that the median always resides at the root of the min-heap.

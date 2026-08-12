@@ -1,0 +1,3 @@
+# CS3C - Maximum Flow Problem
+
+This project implements a solution to the Maximum Flow problem in flow networks, determining the maximum possible throughput from a designated source vertex to a sink vertex under edge capacity constraints. The implementation uses the Ford-Fulkerson algorithm built upon extended graph structures (`FlowGraph`, `FlowVertex`, and `FlowEdge`) that track individual flows, residual capacities, and paired back-edges. Augmenting paths are iteratively found using Shortest Path First (SPF) search, pushing flow through each path based on its minimum residual capacity. Dynamic updates to forward and reverse edge capacities allow flow redirection until no usable paths remain between source and sink.
